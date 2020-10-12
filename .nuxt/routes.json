@@ -1,0 +1,118 @@
+[
+  {
+    "name": "404",
+    "path": "/404",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/404.vue",
+    "chunkName": "pages/404",
+    "_name": "_0dd99c69"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_2f0f6cf8"
+  },
+  {
+    "name": "design",
+    "path": "/design",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/design.vue",
+    "chunkName": "pages/design",
+    "_name": "_341013c6"
+  },
+  {
+    "name": "resources",
+    "path": "/resources",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/resources.vue",
+    "chunkName": "pages/resources",
+    "_name": "_0923bc16"
+  },
+  {
+    "name": "shop",
+    "path": "/shop",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/shop.vue",
+    "chunkName": "pages/shop",
+    "_name": "_38503915"
+  },
+  {
+    "name": "sponsor-nuxtjs",
+    "path": "/sponsor-nuxtjs",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/sponsor-nuxtjs.vue",
+    "chunkName": "pages/sponsor-nuxtjs",
+    "_name": "_4adfeb04"
+  },
+  {
+    "name": "support",
+    "path": "/support",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/support.vue",
+    "chunkName": "pages/support",
+    "_name": "_b9c38a00"
+  },
+  {
+    "name": "team",
+    "path": "/team",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/team.vue",
+    "chunkName": "pages/team",
+    "_name": "_2d1ed608"
+  },
+  {
+    "name": "themes",
+    "path": "/themes",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/themes.vue",
+    "chunkName": "pages/themes",
+    "_name": "_09819229"
+  },
+  {
+    "name": "video-courses",
+    "path": "/video-courses",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/video-courses.vue",
+    "chunkName": "pages/video-courses",
+    "_name": "_96b65d52"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/blog/_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_327caf88"
+  },
+  {
+    "name": "guides-book",
+    "path": "/guides/:book?",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/guides/_book.vue",
+    "chunkName": "pages/guides/_book",
+    "children": [
+      {
+        "name": "guides-book-slug",
+        "path": ":slug?",
+        "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/guides/_book/_slug.vue",
+        "chunkName": "pages/guides/_book/_slug",
+        "_name": "_f62c5e6c"
+      }
+    ],
+    "_name": "_2658fa62"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2199dcc3"
+  },
+  {
+    "name": "section",
+    "path": "/:section",
+    "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/_section.vue",
+    "chunkName": "pages/_section",
+    "children": [
+      {
+        "name": "section-slug",
+        "path": ":slug?",
+        "component": "/Users/tranghuynh/Bigin/Research/nuxtjsOrg/pages/_section/_slug.vue",
+        "chunkName": "pages/_section/_slug",
+        "_name": "_4e5fedc0"
+      }
+    ],
+    "_name": "_1c881045"
+  }
+]
